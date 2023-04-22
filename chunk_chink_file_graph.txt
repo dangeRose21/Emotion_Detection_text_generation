@@ -1,0 +1,86 @@
+(S
+  (NP
+    (NP [/NNS Emma/NNP)
+    by/IN
+    (NP Jane/NNP Austen/NNP)
+    1816/CD
+    (NP ]/NN)))
+(S )
+(S (NP (NP VOLUME/NNP) I/PRP))
+(S )
+(S (NP (NP CHAPTER/NN) I/PRP))
+(S )
+(S )
+(S
+  (NP
+    (NP Emma/NNP Woodhouse/NNP)
+    ,/,
+    (NP handsome/NN)
+    ,/,
+    (NP clever/NN)
+    ,/,
+    and/CC
+    rich/JJ
+    ,/,
+    with/IN
+    (NP a/DT comfortable/JJ home/NN)))
+(S
+  (NP and/CC (NP happy/JJ disposition/NN) ,/,)
+  seemed/VBD
+  (NP to/TO)
+  unite/VB
+  (NP some/DT of/IN the/DT best/JJS (NP blessings/NNS)))
+(S
+  (NP of/IN (NP existence/NN) ;/: and/CC)
+  had/VBD
+  lived/VBN
+  (NP
+    nearly/RB
+    twenty-one/CD
+    (NP years/NNS)
+    in/IN
+    (NP the/DT world/NN)))
+(S
+  (NP with/IN very/RB little/JJ to/TO)
+  distress/VB
+  (NP or/CC)
+  vex/VB
+  (NP her/PRP ./.))
+(S
+  (NP She/PRP)
+  was/VBD
+  (NP
+    the/DT
+    youngest/JJS
+    of/IN
+    the/DT
+    two/CD
+    (NP daughters/NNS)
+    of/IN
+    a/DT
+    most/RBS
+    affectionate/JJ
+    ,/,))
+(S
+  (NP (NP indulgent/NN father/NN) ;/: and/CC)
+  had/VBD
+  (NP
+    ,/,
+    in/IN
+    (NP consequence/NN)
+    of/IN
+    (NP her/PRP$ sister/NN)
+    's/POS
+    (NP marriage/NN)
+    ,/,))
+(S
+  been/VBN
+  (NP
+    (NP mistress/NN)
+    of/IN
+    (NP his/PRP$ house/NN)
+    from/IN
+    a/DT
+    very/RB
+    (NP early/JJ period/NN)
+    ./.))
